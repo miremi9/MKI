@@ -1,6 +1,5 @@
 from tkinter import *
 from tkinter.filedialog import *
-import matplotlib.image as mpimg
 from analyse import *
 
 
